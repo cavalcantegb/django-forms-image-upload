@@ -23,8 +23,8 @@ Step 1.: Installing pipenv:
 
 Step 2.: Start the virtual environment and install the projects dependencies:
 
-    pipenv shell
     pipenv install
+    pipenv shell
    
 Step 3.:  Running migrations:
 
