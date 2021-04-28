@@ -7,3 +7,4 @@ If you are searching for a Python / Django developer let's talk.
 You can reach me @
 Linkedin: https://www.linkedin.com/in/guilherme-cavalcante-02417830/
 Github: https://github.com/cavalcantegb
+Email: cavalcante.guilherme91@gmail.com
